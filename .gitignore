@@ -8,3 +8,7 @@ build/*
 _C.*
 outputs/*
 checkpoints/*.pt
+basketball-1
+venv/
+basketball*
+videos/
